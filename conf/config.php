@@ -6,6 +6,6 @@
 
     @session_start();
 
-    $app_name = "CrudApp";
+    $app_name = "CrudAppGanteng";
     $app_desc = "Aplikasi Belajar CRUD";
 ?>

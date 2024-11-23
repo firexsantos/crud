@@ -73,6 +73,8 @@
     <?php
         include"inc/meta_footer.php";
     ?>
+
+    
 </body>
 
 </html>
